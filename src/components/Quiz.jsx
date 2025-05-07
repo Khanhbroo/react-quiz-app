@@ -25,7 +25,7 @@ const Quiz = () => {
     return (
       <div id="summary">
         <img src={quizCompleteImg} alt="Trophy icon" />
-        <h2>Quiz Complelte!</h2>
+        <h2>Quiz Complete!</h2>
       </div>
     );
   }
